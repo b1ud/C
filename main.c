@@ -2,6 +2,8 @@
 
 int main() {
     clear();
-    printf("Hello World\n");
+    // printf("Hello World\n");
+    int num = 9;
+    printf("%d", num);
     return 0;
 }
